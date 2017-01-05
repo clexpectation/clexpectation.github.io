@@ -16,7 +16,7 @@ avatar: https://raw.githubusercontent.com/clexpectation/clexpectation.github.io/
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:clexpectation@google.com
+  email:
   facebook:
   flickr:
   github: barryclark/jekyll-now
