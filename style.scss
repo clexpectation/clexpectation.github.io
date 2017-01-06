@@ -134,7 +134,7 @@ img {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&7";
+    content: "";
     display: table;
 }
 
