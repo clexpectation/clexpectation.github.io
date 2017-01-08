@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/contact/
 ---
-这里收集了互联网上的各类素材！！！
+
+**这里收集了互联网上的各类素材！！！**
+
 ### More Information
 
 
