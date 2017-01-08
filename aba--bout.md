@@ -1,7 +1,7 @@
 ---
 layout: page
 title: out
-permalink: /about/
+permalink: /out/
 ---
 
 Some information about you!
