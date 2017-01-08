@@ -1,17 +1,14 @@
 ---
 layout: page
 title: About
-permalink: /about/contact
+permalink: /about/contact/
 ---
-
-Some information about you!
-
+这里收集了互联网上的各类素材！！！
 ### More Information
 
-### QQQQQQQQQQQQQQQQQQQQQQQQ
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+## Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[clexpectation@google.com](mailto:clexpectation@google.com)
