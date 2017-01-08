@@ -6,10 +6,10 @@ permalink: /about/contact/
 
 **这里收集了互联网上的各类素材！！！**
 
-### More Information
+# More Information
 
 
-> 江城子 乙卯正月二十日夜记梦（苏轼）
+**江城子 乙卯正月二十日夜记梦（苏轼）**
 
 >十年生死两茫茫。
 >不思量，
@@ -28,6 +28,6 @@ permalink: /about/contact/
 明月夜，
 短松冈。
 
-## Contact me
+# Contact me
 
 [clexpectation@google.com](mailto:clexpectation@google.com)
