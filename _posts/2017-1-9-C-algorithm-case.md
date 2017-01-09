@@ -600,3 +600,4 @@ Error!!! Factorial of negative number doesn't exist.
 
 Enter an integer: 10
 Factorial = 3628800
+先介绍到这里，下一篇将分享更多的C语言基础算法，敬请期待。
