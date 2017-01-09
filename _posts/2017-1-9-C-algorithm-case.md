@@ -17,6 +17,7 @@ int main()
 输出：
 
 C Programming
+
 2、C语言打印用户输入的一个整数
 
 源代码：
