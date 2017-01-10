@@ -8,12 +8,19 @@ title: C语言基础算法案例
 源代码：
 
 /* C Program to print a sentence. */
+
 #include <stdio.h>
+
 int main()
+
 {
-   printf("C Programming"); /* printf() prints the content inside quotation */
-   return 0;
+  
+  printf("C Programming"); /* printf() prints the content inside quotation */
+  
+  return 0;
+  
 }
+
 输出：
 
 C Programming
