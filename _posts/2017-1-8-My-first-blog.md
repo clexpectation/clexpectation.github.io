@@ -3,7 +3,7 @@ layout: post
 title: Free Code Camp homework!
 ---
 
-1.简单网页设计（兄弟连）https://codepen.io/clexpectation/full/PWQZYY/
+<p>1.简单网页设计（兄弟连）https://codepen.io/clexpectation/full/PWQZYY/</p>
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
